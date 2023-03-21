@@ -33,7 +33,6 @@
 # ==============================================================================
 # TODO: fix multilingual 
 
-import keyboard
 import openai
 import os
 import sys
